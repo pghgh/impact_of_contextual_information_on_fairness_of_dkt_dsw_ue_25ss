@@ -1,2 +1,2 @@
-# impact_of_contextual_information_on_fairness_of_dkt_dsw_ue_25ss
-Experiments of Bachelor's Thesis project titled "Impact of Contextual Information on Fairness of Deep Knowledge Tracing", for the Data Stewardship UE 2025SS course
+# The Impact of Contextual Information on the Fairness of Deep Knowledge Tracing
+This repository contains the code and metadata from the experiments implemented for my Bachelor's Thesis project completed at the University of Vienna, for the Data Stewardship UE 2025SS course at the Technical University of Vienna.

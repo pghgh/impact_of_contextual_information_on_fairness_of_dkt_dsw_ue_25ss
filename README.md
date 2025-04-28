@@ -1,2 +1,2 @@
 # The Impact of Contextual Information on the Fairness of Deep Knowledge Tracing
-This repository contains the code and metadata from the experiments implemented for my Bachelor's Thesis project completed at the University of Vienna, for the Data Stewardship UE 2025SS course at the Technical University of Vienna.
+This repository contains the code and metadata from the experiments implemented for my Bachelor's Thesis project completed at the University of Vienna, for the [194.045 Data Stewardship UE 2025SS](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=9676&dsrid=157&semester=2025S&courseNr=194045) course at the Technical University of Vienna.

@@ -1,0 +1,18 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "type": "SoftwareSourceCode",
+    "applicationCategory": "Computer Science",
+    "codeRepository": "https://github.com/pghgh/impact_of_contextual_information_on_fairness_of_dkt_dsw_ue_25ss.git",
+    "dateCreated": "2024-04-28",
+    "datePublished": "2024-04-28",
+    "description": "The project contains experiments using a machine learning model which tries to predict the correctness of the answer given to an upcoming question by a student at a given point in time.",
+    "keywords": [
+        "machine learning",
+        "deep knowledge tracing",
+        "educational field"
+    ],
+    "license": "https://spdx.org/licenses/MIT",
+    "name": "The Impact of Contextual Information on the Fairness of Deep Knowledge Tracing",
+    "programmingLanguage": "Python 3",
+    "softwareRequirements": "https://github.com/pghgh/impact_of_contextual_information_on_fairness_of_dkt_dsw_ue_25ss/blob/main/requirements.txt"
+}

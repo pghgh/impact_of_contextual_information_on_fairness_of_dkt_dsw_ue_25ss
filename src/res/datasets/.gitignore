@@ -1,0 +1,8 @@
+# In my repository I don't upload the real-world data from the Eedi platform
+# The user can place them in this directory locally
+train_task_1_2.csv
+answer_metadata_task_1_2.csv
+student_metadata_task_1_2.csv
+# I also do not include/distribute in my repository the datasets generated from the "eedi_platform_data_preparator.py" script
+train_task_1_2_modified.csv
+train_task_1_2_modified_with_metadata.csv

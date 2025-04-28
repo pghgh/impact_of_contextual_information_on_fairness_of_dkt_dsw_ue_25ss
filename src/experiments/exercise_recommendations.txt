@@ -1,11 +1,11 @@
-2025-04-28 17:16:31.547141 synthetic_student_data_fast_learners, continuous input
-2025-04-28 17:16:31.694405 Recommended exercise for student no. 40 is 4
-2025-04-28 17:16:31.712636 Recommended exercise for student no. 41 is 1
-2025-04-28 17:16:31.736100 Recommended exercise for student no. 42 is 5
-2025-04-28 17:16:31.763598 Recommended exercise for student no. 43 is 6
-2025-04-28 17:16:31.783833 Recommended exercise for student no. 44 is 3
-2025-04-28 17:16:31.801568 Recommended exercise for student no. 45 is 7
-2025-04-28 17:16:31.823483 Recommended exercise for student no. 46 is 9
-2025-04-28 17:16:31.837466 Recommended exercise for student no. 47 is 0
-2025-04-28 17:16:31.851242 Recommended exercise for student no. 48 is 3
-2025-04-28 17:16:31.865129 Recommended exercise for student no. 49 is 3
+2025-04-28 19:12:59.536750 synthetic_student_data_fast_learners, continuous input
+2025-04-28 19:12:59.683497 Recommended exercise for student no. 40 is 4
+2025-04-28 19:12:59.695486 Recommended exercise for student no. 41 is 1
+2025-04-28 19:12:59.705341 Recommended exercise for student no. 42 is 5
+2025-04-28 19:12:59.719786 Recommended exercise for student no. 43 is 6
+2025-04-28 19:12:59.729843 Recommended exercise for student no. 44 is 3
+2025-04-28 19:12:59.739742 Recommended exercise for student no. 45 is 7
+2025-04-28 19:12:59.754570 Recommended exercise for student no. 46 is 9
+2025-04-28 19:12:59.764928 Recommended exercise for student no. 47 is 0
+2025-04-28 19:12:59.773055 Recommended exercise for student no. 48 is 3
+2025-04-28 19:12:59.781495 Recommended exercise for student no. 49 is 3
